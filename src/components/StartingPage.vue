@@ -6,10 +6,13 @@
 
 <script>
 export default {
-  name: "StartingPage",
+  name: 'StartingPage',
   props: {
-    msg: String,
-  },
+    msg: {
+      type: String,
+      required: true
+    }
+  }
 };
 </script>
 
