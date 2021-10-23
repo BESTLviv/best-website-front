@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-    <img src="images/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="images/logo.JPG" alt="Logo" width="160" height="160">
 </div>
 
 <!-- TABLE OF CONTENTS -->
