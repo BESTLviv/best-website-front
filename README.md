@@ -1,4 +1,10 @@
-<div id="top"></div>
+## BEST Website Front
+
+<!-- PROJECT LOGO -->
+<br/>
+<div align="center">
+    <img src="images/logo.JPG" alt="Logo" width="80" height="80">
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
