@@ -47,8 +47,11 @@
         "warn",
         {
           "singleQuote": true,
-          "semi": true,
-          "trailingComma": "none"
+          "semi": true
+        },
+        "error",
+        {
+          "endOfLine": "auto"
         }
       ]
     }
