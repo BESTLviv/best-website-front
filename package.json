@@ -46,12 +46,11 @@
       "prettier/prettier": [
         "warn",
         {
+          "trailingComma" : "none",
           "singleQuote": true,
+          "endOfLine": "auto",
           "semi": true
-        },
-        "error",
-        {
-          "endOfLine": "auto"
+          
         }
       ]
     }
